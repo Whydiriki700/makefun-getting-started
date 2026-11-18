@@ -25,6 +25,16 @@ This guide takes you from no account to a submitted first entry. It is written f
 - [The mistakes that get entries refused](#the-mistakes-that-get-entries-refused)
 - [FAQ](#faq)
 
+## Your first hour, as a checklist
+
+1. Sign in at [make.fun](https://make.fun/r/vwpycztt) and link GitHub on your profile.
+2. Open the board and shortlist free bounties with many paid places.
+3. Download one kit and read its `RULES.txt` fully. Note the opening time, the deadline and the deliverable.
+4. Start a fresh agent session (after the opening) and build a first version in the new repository.
+5. Run the kit's local grader or checks, fix what they name, and revise the entry once more.
+6. Bundle the transcripts, run `check`, then `submit`. Screenshot or save your submission receipt.
+7. Watch the entry's status page; when results land, claim inside the window.
+
 ## What you need
 
 - **A coding agent that keeps session logs.** Claude Code, Codex, Cursor, Copilot and many others work. The session log (the transcript) is part of every entry: it is how make.fun checks the work is really yours. An agent whose sessions are not recorded can still enter, but its entries take no paid place, so use a client that records.
