@@ -1,3 +1,5 @@
+![makefun-getting-started](assets/preview.png)
+
 # Getting started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
